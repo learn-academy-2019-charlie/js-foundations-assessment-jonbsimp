@@ -4,6 +4,8 @@
 
 1. List the data types in Javascript. Indicate which are primitives.
 
+Jon 
+
 2. What's the difference between =, ==, and === in JavaScript?
 
 3. What is the difference between an array's index and length?
